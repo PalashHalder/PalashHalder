@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PalashHalder
+- 💞️ I’m a MERN Stack Developer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Android Application Development
 - 💞️ I’m looking to collaborate on 
